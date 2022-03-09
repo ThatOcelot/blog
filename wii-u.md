@@ -40,7 +40,7 @@ After the Wii, Nintendo decided that their strategy of marketing towards casuals
 
 ![Wii U running Homebrew](https://static1.makeuseofimages.com/wp-content/uploads/2019/10/wii-u-homebrew.jpg)
 
-or one, the Wii U is the ultimate homebrew machine and, by extension, an emulation beast. To install homebrew, all you need to do is put some files on an SD card, stick it in the Wii U, visit a website, and press a button. In fact, you only need three consoles to play the entire Nintendo game library. A homebrew Wii U, a homebrew 3DS, and a Switch (homebrew not necessary).
+For one, the Wii U is the ultimate homebrew machine and, by extension, an emulation beast. To install homebrew, all you need to do is put some files on an SD card, stick it in the Wii U, visit a website, and press a button. In fact, you only need three consoles to play the entire Nintendo game library. A homebrew Wii U, a homebrew 3DS, and a Switch (homebrew not necessary).
 
 Homebrew is not the only thing the Wii U has going for it. Every Wii U ever sold is backwards compatible with the Wii. This means that any game made for the Wii works with the Wii U. In fact, the Wii U was the only eighth generation video game to have backwards compatibility at launch (the Xbox One has backwards compatibility for a select number of Xbox and Xbox 360 games, although no Simpsons Game, Road Rage, or Hit and Run yet, and the PS4 and Switch do not have any official backwards compatibility).
 

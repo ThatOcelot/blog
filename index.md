@@ -1,1 +1,4 @@
-I am currently working on transferring my blog and all of its posts from WordPress.
+# Welcome to my blog!
+
+Check out some of my posts:
+- [Wii U: The best console to ever fail](/wii-u.md)

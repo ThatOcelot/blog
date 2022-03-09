@@ -1,3 +1,9 @@
+---
+layout: default
+comments: true
+# other options
+---
+
 # Wii U: The best console to ever fail
 
 ![Wii U and Gamepad](https://cdn02.nintendo-europe.com/media/images/10_share_images/systems_11/wii_u_11/H2x1_generic_WiiU_image1280w.jpg)
@@ -43,3 +49,23 @@ Homebrew is not the only thing the Wii U has going for it. Every Wii U ever sold
 ![Wii U Gamepad and Switch](https://cdn.vox-cdn.com/thumbor/WtvBbZoaCR8SLYrGUW6WOnjHj6E=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/53052845/Screen_Shot_2017_02_02_at_16.06.36.0.png)
 
 In the end, Nintendo knew that trying to leave the Wii U on life support would end badly for them. So, they killed off the Wii U in January 2017 and replaced it with the Switch in March of the same year. The Switch takes the concepts introduced in the Wii U and instead of tethering you to your house, they allowed you to travel anywhere you please and still let you play Breath of the Wild. Sure, many people stuck with the Wii U for Breath of the Wild when the Switch was first released because, at the time, Breath of the Wild was the only game made for the Switch. Now, these people play Breath of the Wild on the Switch (except for the cheapskate who doesn't want to buy the same game twice). In 2022, Nintendo also announced that they will shut down the Wii U and 3DS eShops in 2023. So, RIP Wii U 2012-2022. But, hey! At least, the Wii U joysticks don't drift.
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://thatocelot.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

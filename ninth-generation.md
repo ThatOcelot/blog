@@ -69,7 +69,7 @@ Of course, this is for a generation that just started and consider that the Wii 
     */
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
-    s.src = 'https://EXAMPLE.disqus.com/embed.js';
+    s.src = 'https://thatocelot.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
     })();

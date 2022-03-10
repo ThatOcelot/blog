@@ -20,7 +20,7 @@ Sony is entering this race for the fifth time with the PS5. The PS5 is almost pe
 
 ![Two boxes with bad names](https://thatocelot.files.wordpress.com/2021/01/twarren_200909_4177_00306977393659145055158.jpg?w=1024)
 
-Microsoft is entering the ring again with the Series X|S. The place where the XSXS really shines is movies and TV. Out of the three largest manufacturers, Sony doesn't have CBS All Access yet and Nintendo only has Hulu and Youtube. Yet, Microsoft has all of the major paid apps as well as some free apps and some niche apps. The main problems with this console are that all new games are available on PC through the Microsoft Store and Steam and whoever is in charge of Xbox naming should seriously be fired. It was released in December 2020.
+Microsoft is entering the ring again with the Series X/S. The place where the XSXS really shines is movies and TV. Out of the three largest manufacturers, Sony doesn't have CBS All Access yet and Nintendo only has Hulu and Youtube. Yet, Microsoft has all of the major paid apps as well as some free apps and some niche apps. The main problems with this console are that all new games are available on PC through the Microsoft Store and Steam and whoever is in charge of Xbox naming should seriously be fired. It was released in December 2020.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9NbEWFnzZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

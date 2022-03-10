@@ -26,7 +26,7 @@ There were a variety of reasons why the Gamecube and N64 failed but one of them 
 
 ### The Success of the Wii
 
-<iframe width="420" height="315" src="https://youtu.be/Bygdnz2gZIQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0p7uJp25BlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Wii launched in 2006. Nintendo marketed the Wii not towards pro gamers, but rather, towards casual gamers. And it worked! The Wii is the best selling console of the seventh generation. If you don't have one, you probably know a few people who have a Wii. Sure, the Wii had its problems (shovelware, awful motion controls) but it was still Nintendo's best selling home console.
 

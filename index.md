@@ -7,4 +7,4 @@ Check out some of my posts:
 - [Nintendo Things You Probably Shouldn't Buy](/nintendo-things-you-shouldnt-buy.md)
 - [Wii U: The best console to ever fail](/wii-u.md)
 
-Visit my [website](https://thatocelot.github.io).
+Visit my [website](https://thatocelot.github.io) and [YouTube channel](https://www.youtube.com/channel/UC30nmRJvv--iGTsZSNau8Lw).

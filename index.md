@@ -1,6 +1,7 @@
 # Welcome to my blog!
 
 Check out some of my posts:
+- [A Child's Guide to Internet Debates](/childsguide.md)
 - [Apple things you probably shouldn't buy](/apple-things-you-shouldnt-buy.md)
 - [The ninth (kind of) generation of video game consoles](/ninth-generation.md)
 - [The time that the Swedish Mob made a game console](/swedish-mob-console.md)

@@ -7,3 +7,5 @@
 6. CollegeBoard forces you to use a wooden pencil.
 7. CollegeBoard makes you type in your password five times.
 8. CollegeBoard sends you junk mail.
+9. CollegeBoard rips off your school.
+10. CollegeBoard doesn't care abour poor kids.

@@ -1,0 +1,2 @@
+# How the Nazis made most of Europe fall under one time zone.
+When you look at any large landmass, you can see different time zones seperating it. The USA has six time zones (eleven if you also count territories), Russia has eleven, Africa (as a continent) as six, and Australia has three. There are, however, three large regions that are made of mostly a singular time zone. The first two are China (which uses UTC+08:00) and India (which uses UTC+05:30). The third is, weirdly, Europe which uses UTC+01:00 as far west as Spain and as far east as Poland.

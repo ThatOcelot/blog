@@ -16,3 +16,7 @@
 15. Students are forced to do LEQs (Long Essay Questions) in class but do not do them on the test.
 16. CollegeBoard will not admit to their mistakes.
 17. CollegeBoard is effectively a monopoly.
+18. CollegeBoard forced students to take the SAT and AP tests during the COVID-19 pandemic.
+19. CollegeBoard synchronized all of the AP testing times across the world. A test that would be administered at 15:00 in Califronia would be issues at 0:00 in Spain, 3:30 in India, and 10:00 in New Zealand.
+20. CollegeBoard's CEO makes nearly $2 million every year.
+21. Other executives make between $300,000 and $500,000 per year.

@@ -8,4 +8,11 @@
 7. CollegeBoard makes you type in your password five times.
 8. CollegeBoard sends you junk mail.
 9. CollegeBoard rips off your school.
-10. CollegeBoard doesn't care abour poor kids.
+10. CollegeBoard doesn't care about poor kids.
+11. The SAT is not standardized.
+12. The SAT's integrity is compromised.
+13. AP is unnecessary, yet many students are still forced to do it.
+14. Being forced to take an AP History class means being forced to write DBQs (Document Based Questions).
+15. Students are forced to do LEQs (Long Essay Questions) in class but do not do them on the test.
+16. CollegeBoard will not admit to their mistakes.
+17. CollegeBoard is effectively a monopoly.

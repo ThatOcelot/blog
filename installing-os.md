@@ -6,6 +6,7 @@
 4. Boot into the Live CD
 5. Follow the instructions to install the operating system onto your computer
 6. Done!
+
 ## Windows
 1. Download and install VirtualBox
 2. Download a Windows 10 ISO
@@ -18,6 +19,7 @@
 9. Boot into the Windows installer
 10. Follow the instructions to install the operating system onto your computer
 11. Done!
+
 ## macOS
 ### On a Mac
 1. Boot into internet recovery

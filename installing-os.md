@@ -9,7 +9,7 @@
 7. Try to argue with him about why Linux is better.
 8. Arguing is pointless because he's a stubborn moron.
 9. Get told by Armando to stop arguing.
-10. Change your time travel goal from "Kill Hitler" to "Stop Armando from telling me about his desktop before we watch *Death to Smoochy*.
+10. Change your time travel goal from "Kill Hitler" to "Stop Armando from telling me about his desktop before we watch *Death to Smoochy*".
 6. Done!
 
 ## Windows
@@ -36,5 +36,6 @@
 2. Run into a problem
 3. Give up
 4. Realize you need macOS for developing iOS apps
-5. Buy a Mac
+5. Buy a $2000 Mac
+6. Set it up
 6. Done!

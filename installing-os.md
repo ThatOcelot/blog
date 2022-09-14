@@ -5,6 +5,11 @@
 3. Use a tool like Rufus or Etcher to flash the ISO onto a USB flash drive
 4. Boot into the Live CD
 5. Follow the instructions to install the operating system onto your computer
+6. Get ridiculed by Raihan, that jerk who popped your oobleck, for using Linux.
+7. Try to argue with him about why Linux is better.
+8. Arguing is pointless because he's a stubborn moron.
+9. Get told by Armando to stop arguing.
+10. Change your time travel goal from "Kill Hitler" to "Stop Armando from telling me about his desktop before we watch *Death to Smoochy*.
 6. Done!
 
 ## Windows

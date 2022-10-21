@@ -1,6 +1,7 @@
 # Welcome to my blog!
 
 Check out some of my posts:
+- [Things that outlasted Liz Truss](/things-that-outlasted-truss.md)
 - [How to Install Different Operating Systems](/installing-os.md)
 - [The Always Up to Date List of Reasons to Hate CollegeBoard](/collegeboard.md)
 - [A Child's Guide to Internet Debates](/childsguide.md)

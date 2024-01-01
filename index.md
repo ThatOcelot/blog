@@ -1,6 +1,7 @@
 # Welcome to my blog!
 
 Check out some of my posts:
+- [My 2024 Predictions](/2024-predictions.md)
 - [My Smartphone Saga](/broken-phones.md)
 - [Things that outlasted Liz Truss](/things-that-outlasted-truss.md)
 - [How to Install Different Operating Systems](/installing-os.md)
